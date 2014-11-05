@@ -1,0 +1,6 @@
+c:\users\mjs\documents\visual studio 2013\Projects\LinearSearchApp\LinearSearchApp\bin\Debug\LinearSearchApp.exe.config
+c:\users\mjs\documents\visual studio 2013\Projects\LinearSearchApp\LinearSearchApp\bin\Debug\LinearSearchApp.exe
+c:\users\mjs\documents\visual studio 2013\Projects\LinearSearchApp\LinearSearchApp\bin\Debug\LinearSearchApp.pdb
+c:\users\mjs\documents\visual studio 2013\Projects\LinearSearchApp\LinearSearchApp\obj\Debug\LinearSearchApp.csprojResolveAssemblyReference.cache
+c:\users\mjs\documents\visual studio 2013\Projects\LinearSearchApp\LinearSearchApp\obj\Debug\LinearSearchApp.exe
+c:\users\mjs\documents\visual studio 2013\Projects\LinearSearchApp\LinearSearchApp\obj\Debug\LinearSearchApp.pdb
