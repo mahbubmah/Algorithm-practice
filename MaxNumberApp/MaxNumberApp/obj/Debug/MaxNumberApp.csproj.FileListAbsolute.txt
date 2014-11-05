@@ -1,0 +1,6 @@
+c:\users\mjs\documents\visual studio 2013\Projects\MaxNumberApp\MaxNumberApp\bin\Debug\MaxNumberApp.exe.config
+c:\users\mjs\documents\visual studio 2013\Projects\MaxNumberApp\MaxNumberApp\bin\Debug\MaxNumberApp.exe
+c:\users\mjs\documents\visual studio 2013\Projects\MaxNumberApp\MaxNumberApp\bin\Debug\MaxNumberApp.pdb
+c:\users\mjs\documents\visual studio 2013\Projects\MaxNumberApp\MaxNumberApp\obj\Debug\MaxNumberApp.csprojResolveAssemblyReference.cache
+c:\users\mjs\documents\visual studio 2013\Projects\MaxNumberApp\MaxNumberApp\obj\Debug\MaxNumberApp.exe
+c:\users\mjs\documents\visual studio 2013\Projects\MaxNumberApp\MaxNumberApp\obj\Debug\MaxNumberApp.pdb
