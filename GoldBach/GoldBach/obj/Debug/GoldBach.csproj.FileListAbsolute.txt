@@ -1,0 +1,6 @@
+c:\users\mjs\documents\visual studio 2013\Projects\GoldBach\GoldBach\bin\Debug\GoldBach.exe.config
+c:\users\mjs\documents\visual studio 2013\Projects\GoldBach\GoldBach\bin\Debug\GoldBach.exe
+c:\users\mjs\documents\visual studio 2013\Projects\GoldBach\GoldBach\bin\Debug\GoldBach.pdb
+c:\users\mjs\documents\visual studio 2013\Projects\GoldBach\GoldBach\obj\Debug\GoldBach.exe
+c:\users\mjs\documents\visual studio 2013\Projects\GoldBach\GoldBach\obj\Debug\GoldBach.pdb
+c:\users\mjs\documents\visual studio 2013\Projects\GoldBach\GoldBach\obj\Debug\GoldBach.csprojResolveAssemblyReference.cache

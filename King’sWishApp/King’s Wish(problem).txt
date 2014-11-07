@@ -1,0 +1,53 @@
+Problem C
+King’s Wish 
+Input: Standard Input 
+Output: Standard Output 
+Once there was a king in a country far far away. He had his own sense of beauty and 
+some knowledge in mathematics. He built a large hall room for his meetings which is 
+square shaped and had a length of K. The king wanted to cover the floor of the hall 
+with tiles. But he was interested to make his room special, so he imposed the 
+following conditions on tile size: 
+-  Tiles must be of rectangular (square shape is not allowed) shape of length L
+and width W. Both must be integer and Lmust be strictly greater than W(L> 
+W). (What is the point of filling squareshape room with square shape tile?) 
+-  The length of the tile Lmust be strictly less than K(L< K). (The beauty of 
+tiling loses if one tile covers the entire length). 
+-  The room must be covered with integer number of complete tiles. Tiles are not 
+allowed to be broken. Also, tiles must not overlap. However, tiles can be put 
+both horizontally and vertically. 
+-  One should not be able to fill a square whose side is less than Kusing the tile 
+of (L, W) size. For example, if K = 6, you cannot use (2, 1) tile as you can fill 
+4x4 square with it. (The king does not like smaller replica of his room with 
+same size of tile). 
+-  The king likes stripe shape, so among all possibilities that comply all the 
+above conditions, the king would like to have the one which has the largest 
+difference between length and width, in other words, for which (L– W) is 
+maximized. If there is still a tie, the king would choose the one that that has 
+larger perimeter. 
+The designer was in a fix looking at all these conditions. However he was also good 
+enough with mathematics and after some dayshe could come up with a solution to 
+make the king happy. 
+In this problem you have to do the same task. Given the value of Kyou must 
+determine length Land width Wof the desired tile. 
+Input 
+The first line of input will be an integer T(T< 1000) denoting the number of test 
+cases. Each of the following lineswill contain a positive integer K(K< 10
+12
+) 
+denoting the length of the square. 
+Output 
+For each Kproduce one line of output starting with the case number in the format 
+“Case d: “, where dis input number starting from 1. Then output two integers Land 
+Wwhich denote the length and width of the tile respectively separated by a space. If 
+it is impossible to find tile sizes that fulfills all the conditions above, print the string 
+“Impossible”instead. See sample inputoutput for more detail. 
+Sample Input     Output for Sample Input 
+3 
+18 
+13 
+2695 
+Case 1: 9 2 
+Case 2: Impossible 
+Case 3: 539 5 
+Problemsetter: Towhidul Islam Talukder 
+Special Thanks to: Jane Alam Jan 

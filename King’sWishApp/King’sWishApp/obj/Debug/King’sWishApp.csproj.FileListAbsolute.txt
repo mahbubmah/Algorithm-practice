@@ -1,0 +1,6 @@
+c:\users\mjs\documents\visual studio 2013\Projects\King’sWishApp\King’sWishApp\bin\Debug\King’sWishApp.exe.config
+c:\users\mjs\documents\visual studio 2013\Projects\King’sWishApp\King’sWishApp\bin\Debug\King’sWishApp.exe
+c:\users\mjs\documents\visual studio 2013\Projects\King’sWishApp\King’sWishApp\bin\Debug\King’sWishApp.pdb
+c:\users\mjs\documents\visual studio 2013\Projects\King’sWishApp\King’sWishApp\obj\Debug\King’sWishApp.csprojResolveAssemblyReference.cache
+c:\users\mjs\documents\visual studio 2013\Projects\King’sWishApp\King’sWishApp\obj\Debug\King’sWishApp.exe
+c:\users\mjs\documents\visual studio 2013\Projects\King’sWishApp\King’sWishApp\obj\Debug\King’sWishApp.pdb
